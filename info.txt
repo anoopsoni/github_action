@@ -1,2 +1,2 @@
-This is information about Anoop Kmar Soni
+This is information about Anoop Kmar Soni ## This is more merger conflict"
 ## This is I changed in Feature branch
